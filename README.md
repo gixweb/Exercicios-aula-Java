@@ -7,7 +7,7 @@ Versão utilizada:
 JDK 21
 Java 21
 
-#Exercicios if-else
+# Exercicios if-else
 #### Conjunto de atividades pedidas como exercícios de fixação em java
 Versão utilizada:
 JDK 17
